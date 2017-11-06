@@ -1,0 +1,25 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0 0 8px 8px;
+}
+
+#header {
+    height: 50px;
+    background-color: lightblue;
+}
+
+#map {
+    height: 650px;
+    background-color: lightseagreen;
+}
+
+#footer {
+    height: 35px;
+    background-color: lightskyblue;
+}
+
+#side-bar {
+    height: 650px;
+    background-color: lightgray;
+}
